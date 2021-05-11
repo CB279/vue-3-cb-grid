@@ -33,8 +33,8 @@ createApp(app).use(grid);
     xs="1fr"
     sm="1fr 1fr"
     md="1fr 1fr 1fr"
-    xl="1fr 1fr 1fr 1fr"
-    lg="1fr 1fr 1fr 1fr 1fr"
+    lg="1fr 1fr 1fr 1fr"
+    xl="1fr 1fr 1fr 1fr 1fr"
     gap="15px"
 >
     <div>1</div>
@@ -53,8 +53,8 @@ createApp(app).use(grid);
 | xs   | string | -       |
 | sm   | string | -       |
 | md   | string | -       |
-| xl   | string | -       |
 | lg   | string | -       |
+| xl   | string | -       |
 | gap  | string | -       |
 
 ## 📑 License
