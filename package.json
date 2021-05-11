@@ -1,0 +1,26 @@
+{
+    "name": "@vue-cb/grid",
+    "version": "1.0.0",
+    "description": "vue 3,grid",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CB279/vue-3-cb-grid.git"
+    },
+    "keywords": [
+        "vue 3",
+        "grid"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CB279/vue-3-cb-grid/issues"
+    },
+    "homepage": "https://github.com/CB279/vue-3-cb-grid#readme"
+}
