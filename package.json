@@ -1,6 +1,6 @@
 {
     "name": "@vue-cb/grid",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "vue 3,grid",
     "main": "lib/index.js",
     "directories": {
